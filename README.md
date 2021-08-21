@@ -20,8 +20,8 @@ You are required to also come at timeslots outside of regular training hours if 
 |**9 (24/10 to 30/10)**|Lab 1.3|Lab 1.4, Lab 1.5|
 |**10 (31/10 to 6/11)**|Lab 1.4, Lab 1.5|Project: Pendulum|
 |**11 (7/11 to 13/11)**|Project: Pendulum|Collaboration with Mechanical training|
-|**12 (14/11 to 20/11)**|Robocon 2022 rulebook discussion|Reserve|
-|**13 (21/11 to 27/11)**|Reserve|Reserve|
+|**12 (14/11 to 20/11)**|Reserve|Reserve|
+|**13 (21/11 to 27/11)**|Robocon 2022 rulebook discussion|Reserve|
 |**14 (28/11 to 4/12)**|---No training---|---No training---|
 
 ## Labs
