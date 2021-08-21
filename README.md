@@ -10,7 +10,7 @@ You can put the source files into the root directory of the repository.
 
 Training is held every Tuesday and Friday, 19:30pm at InnoWing.
 
-|Week (refer to [HKU academic calendar 2022](https://www.scifac.hku.hk/f/page/4832/14427/Academic_Calendar_2021-2022.pdf)|Tuesday|Friday|
+|Week (refer to [HKU academic calendar 2022](https://www.scifac.hku.hk/f/page/4832/14427/Academic_Calendar_2021-2022.pdf))|Tuesday|Friday|
 |----|-------|------|
 |**6 (3/10 to 9/10)**|Welcoming and Demo|Mechanical workshop to all|
 |**7 (10/10 to 16/10)** (reading week)|No training|No training|
