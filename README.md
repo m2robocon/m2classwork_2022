@@ -5,6 +5,7 @@ Link to tutorials: https://docs.m2stud.io/cs/arduino/intro/
 You should [fork](https://docs.github.com/en/get-started/quickstart/fork-a-repo) this repository to your personal Github acount.
 You should commit the source files containing the solutions to the classwork into your personal forked repository.
 You can put the source files into the root directory of the repository.
+You should replace the contents of the placeholder files with your code.
 
 ## Training schedule
 
